@@ -7,8 +7,6 @@
 <br />
 
 Hi, I'm [Sabbir Ahammed](https://spysabbir.com/), a Full Stack Developer 🚀 from Bangladesh. Besides programming, I enjoy traveling.
-
-<img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true) width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 - 📖 Open-Source enthusiast

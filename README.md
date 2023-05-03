@@ -12,7 +12,7 @@ Hi, I'm [Sabbir Ahammed](https://spysabbir.com/), a Full Stack Developer 🚀 fr
 **Talking about Personal Stuffs:**
 - 📖 Open-Source enthusiast
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning / Exploring ReactJs ; 
+- 🌱 I’m currently learning / Exploring Vue.js ; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@spysabbir](mailto:sabbirahammedsovon@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.);
 - 📝[Resume](https://spysabbir.com/cv/cv.pdf)

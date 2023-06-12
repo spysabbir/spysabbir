@@ -6,7 +6,8 @@
 
 <br />
 
-Hi, I'm [Sabbir Ahammed](https://spysabbir.com/), a Full Stack Developer 🚀 from Bangladesh. Besides programming, I enjoy traveling.
+Hi, I'm [Sabbir Ahammed](https://spysabbir.com/), a Web Designer & Developer 🚀 from Bangladesh. Besides programming, I enjoy traveling.
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="220" />
   
 **Talking about Personal Stuffs:**
@@ -14,8 +15,8 @@ Hi, I'm [Sabbir Ahammed](https://spysabbir.com/), a Full Stack Developer 🚀 fr
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning / Exploring Vue.js ; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@spysabbir](mailto:sabbirahammedsovon@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.);
-- 📝[Resume](https://spysabbir.com/cv/cv.pdf)
+- 📫 How to reach me: [@spysabbir](https://spysabbir.com);
+- 📝 View [Resume](https://spysabbir.com/cv/cv.pdf)
 
 **Languages and Tools:**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

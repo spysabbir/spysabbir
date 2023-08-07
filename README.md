@@ -6,7 +6,7 @@
 
 <br />
 
-Hi, I'm [Sabbir Ahammed](https://spysabbir.com/), a Full Stack Web Developer 🚀 from Bangladesh. Besides programming, I love watching web series.
+Hi, I'm [Sabbir Ahammed](https://spysabbir.com/), a Back-End Web Developer 🚀 from Bangladesh. Besides programming, I love watching web series.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="220" />
   

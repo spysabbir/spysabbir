@@ -13,7 +13,7 @@ Hi, I'm [Sabbir Ahammed](https://spysabbir.com/), a Back-End Web Developer 🚀 
 **Talking about Personal Stuffs:**
 - 📖 Open-Source enthusiast
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning / Exploring Vue.js ; 
+- 🌱 I’m currently learning / Exploring ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ; 
 - 💬 Ask me about JavaScript, jQuery, PHP, Laravel, MySQL. I am happy to help;
 - 📫 How to reach me: [@spysabbir](https://spysabbir.com);
 - 📝 View [Resume](https://spysabbir.com/cv/cv.pdf)

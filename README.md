@@ -28,3 +28,5 @@ Hi, I'm [Sabbir Ahammed](https://spysabbir.com/), a Back-End Web Developer 🚀 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+![spysabbir Stats](https://github-readme-stats.vercel.app/api?username=spysabbir&theme=darcula&show_icons=true&hide_border=true&count_private=true)

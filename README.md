@@ -14,7 +14,7 @@ Hi, I'm [Sabbir Ahammed](https://spysabbir.com/), a Back-End Web Developer 🚀 
 - 📖 Open-Source enthusiast
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning / Exploring Vue.js ; 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about JavaScript, jQuery, PHP, Laravel, MySQL. I am happy to help;
 - 📫 How to reach me: [@spysabbir](https://spysabbir.com);
 - 📝 View [Resume](https://spysabbir.com/cv/cv.pdf)
 

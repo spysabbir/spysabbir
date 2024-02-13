@@ -11,8 +11,8 @@ Hi, I'm [Md Sabbir Ahammed](https://spysabbir.com/), a Php Laravel Developer �
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="220" />
   
 **Talking about Personal Stuff:**
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning / Exploring ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) & ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white); 
+- 🌱 I’m currently working on something cool :wink:;
+- 👨🏽‍💻 I’m currently learning / Exploring ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) & ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white); 
 - 💬 Ask me about JavaScript, jQuery, PHP, Laravel, and MySQL. I am happy to help;
 - 😄 Fun fact: I love to cook & I love watching web series;
 - 📫 How to reach me: [@spysabbir](https://spysabbir.com);

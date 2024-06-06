@@ -12,7 +12,7 @@ Hi, I'm [Md Sabbir Ahammed](https://spysabbir.com/), a Php Laravel Developer �
   
 **Talking about Personal Stuff:**
 - 🌱 I’m currently working on something cool :wink:;
-- 👨🏽‍💻 I’m currently learning / Exploring ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) & ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white); 
+- 👨🏽‍💻 I’m currently learning / Exploring ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white); 
 - 💬 Ask me about JavaScript, jQuery, PHP, Laravel, and MySQL. I am happy to help;
 - 😄 Fun fact: I love to cook & I love watching web series;
 - 📫 How to reach me: [@spysabbir](https://spysabbir.com);
@@ -24,6 +24,7 @@ Hi, I'm [Md Sabbir Ahammed](https://spysabbir.com/), a Php Laravel Developer �
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
